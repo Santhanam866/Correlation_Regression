@@ -25,5 +25,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
-
+Therefore,Correlation and regression for data analysis is verified
 # Output 
+![Screenshot 2025-05-14 134945](https://github.com/user-attachments/assets/4167664d-a91c-43ae-b3fa-4f72dedfe990)
